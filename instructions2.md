@@ -12,6 +12,14 @@ This is the one for the static:
 * {{}} Means we are going to write a python expressionwith double curly brackets in a HTML file.
 
 1.3 Create a nav bar with bootstrap
+* the nav bar codes in base.html from the github has a problem. It had to copy the codes again from bootstrap
+1.4 Read bootstrap documentation in rder to copy the links to base.html
+
+1.5 sign_up.html:
+Create a form from bootstrap with post method
+
+1.6 login.html:
+Create a form from bootstrap with post method
 
 
 
